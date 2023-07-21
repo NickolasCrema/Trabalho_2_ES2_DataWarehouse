@@ -13,6 +13,8 @@ O Data Warehouse foi modelado, utilizando a ferramenta SQL Power Architect, da s
 
 <img src='https://github.com/NickolasCrema/imagens_readmes/blob/main/Trabalho_2_ES2/modelo_logico.png?raw=true'/>
 
+Após a modelagem do Data Warehouse, o mesmo foi implementado seguindo o modelo dentro do PostgreSQL
+
 ---
 
 <h3>Os dados</h3>
