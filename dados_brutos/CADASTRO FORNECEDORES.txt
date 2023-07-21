@@ -1,0 +1,6 @@
+CodigoFornecedor,DescritorFornecedor
+001,Fornecedor Rio de Janeiro
+002,Fornecedor São Paulo
+003,Fornecedor Curitiba
+004,Fornecedor Cascavel
+005,Fornecedor Belo Horizonte

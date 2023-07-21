@@ -1,0 +1,51 @@
+SKU,Descritor do produto
+SKU001,Arno - Ventilador de Mesa 40cm
+SKU002,Amazon - Echo Dot (4ª geração)
+SKU003,Samsung - Smart TV LED 55" 4K
+SKU004,Philips - Air Fryer XL
+SKU005,Sony - Soundbar HT-S350
+SKU006,Amazon - Fire TV Stick Lite
+SKU007,Brastemp - Geladeira Frost Free 380L
+SKU008,Dell - Notebook Inspiron 15
+SKU009,Electrolux - Aspirador de Pó Lite
+SKU010,Oster - Forno Elétrico 45L
+SKU011,Amazon - Echo Show 8
+SKU012,LG - Máquina de Lavar Roupas 11kg
+SKU013,Sony - Smart TV LED 43" Full HD
+SKU014,Philco - Panela de Pressão Elétrica 6L
+SKU015,Samsung - Monitor Curvo Samsung 27"
+SKU016,Nescafé - Cafeteira Dolce Gusto Mini Me
+SKU017,Intelbras - Kit de Câmeras de Segurança
+SKU018,LG - TV OLED 65" 4K UHD
+SKU019,JBL - Headphone Bluetooth T450BT
+SKU020,Amazon - Alexa Echo Studio
+SKU021,Electrolux - Geladeira Side by Side 540L
+SKU022,Pavilion - Notebook HP 14"
+SKU023,Black+Decker - Aspirador de Pó Vertical
+SKU024,Samsung - TV QLED 75" 8K
+SKU025,Epson - Impressora Multifuncional L3150
+SKU026,Amazon - Alexa Echo Dot Kids Edition
+SKU027,Consul - Adega de Vinhos 12 Garrafas
+SKU028,Lenovo - Notebook Ideapad S145
+SKU029,Britânia - Churrasqueira Elétrica
+SKU030,JBL - Caixa de Som Portátil Flip 5
+SKU031,Philips Walita - Liquidificador Daily
+SKU032,LG - TV LED 32" HD
+SKU033,Asus - Notebook VivoBook X512
+SKU034,Oster - Máquina de Café Expresso PrimaLatte II
+SKU035,Canon - Câmera Digital EOS Rebel T7
+SKU036,Panasonic - Geladeira Inverter 435L
+SKU037,LG - Smart TV LED 50" 4K UHD
+SKU038,Apple - Fone de Ouvido Bluetooth AirPods
+SKU039,Taiff - Secador de Cabelo Titanium
+SKU040,Garmin - GPS Automotivo Drive 51
+SKU041,Amazon - Alexa Echo Show 5
+SKU042,Consul - Fogão 4 Bocas CFO4NAB
+SKU043,Acer - Notebook Aspire 3
+SKU044,JBL - Caixa de Som Charge 4
+SKU045,Irobot - Aspirador de Pó Robô Roomba 675
+SKU046,Philips Walita - TV LED 43" Full HD
+SKU047,Razer - Teclado Mecânico Gamer Blackwidow X Chroma
+SKU048,KitchenAid - Batedeira Planetária Artisan
+SKU049,Nikon - Máquina Fotográfica D3500
+SKU050,Amazon - Alexa Echo Flex

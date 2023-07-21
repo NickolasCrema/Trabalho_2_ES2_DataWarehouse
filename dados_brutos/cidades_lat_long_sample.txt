@@ -1,0 +1,18 @@
+codigo_ibge,nome,latitude,longitude,capital,codigo_uf,siafi_id,ddd,fuso_horario
+5300108,Brasília,-15.7795,-47.9297,1,53,9701,61,America/Sao_Paulo
+5208905,Goiânia,-15.9333,-50.14,0,52,9377,62,America/Sao_Paulo
+3509502,Campinas,-22.9053,-47.0659,0,35,6291,19,America/Sao_Paulo
+2701506,Campo Grande,-9.95542,-36.7926,0,27,2729,82,America/Sao_Paulo
+3106200,Belo Horizonte,-19.9102,-43.9266,1,31,4123,31,America/Sao_Paulo
+2927408,Salvador,-12.9718,-38.5011,1,29,3849,71,America/Sao_Paulo
+4106902,Curitiba,-25.4195,-49.2646,1,41,7535,41,America/Sao_Paulo
+3550308,São Paulo,-23.5329,-46.6395,1,35,7107,11,America/Sao_Paulo
+4314902,Porto Alegre,-30.0318,-51.2065,1,43,8801,51,America/Sao_Paulo
+3304557,Rio de Janeiro,-22.9129,-43.2003,1,33,6001,21,America/Sao_Paulo
+3303302,Niterói,-22.8832,-43.1034,0,33,5865,21,America/Sao_Paulo
+3548500,Santos,-23.9535,-46.335,0,35,7071,13,America/Sao_Paulo
+4108304,Foz do Iguaçu,-25.5427,-54.5827,0,41,7563,45,America/Sao_Paulo
+2611606,Recife,-8.04666,-34.8771,1,26,2531,81,America/Sao_Paulo
+5107206,Rio Branco,-15.2483,-58.1259,0,51,8995,65,America/Porto_Velho
+1100205,Porto Velho,-8.76077,-63.8999,1,11,0003,69,America/Porto_Velho
+4124053,Santa Terezinha de Itaipu,-25.4391,-54.402,0,41,8467,45,America/Sao_Paulo
