@@ -36,4 +36,4 @@ As dashboards foram implementadas em Python, utilizando os módulos Streamlit e 
 <h4>Dashboard de vendas</h4>
 <img src='https://github.com/NickolasCrema/imagens_readmes/blob/main/Trabalho_2_ES2/Dashboard_vendas.png?raw=true'/>
 
-(Ambas as dashboards são interativas, aqui só constão capturas de tela referentes à elas).
+(Ambas as dashboards são interativas, aqui só constam capturas de tela referentes à elas).
